@@ -23,3 +23,5 @@ docker run --rm api-test
 Конфигурация находится в [`.github/workflows/ci.yml`](.github/workflows/ci.yml)
 
 GitHub Actions запускается при каждом `push` и вручную через `workflow_dispatch`
+
+[Успешный pipeline](https://github.com/ScreoX/api-testing-ci/actions/workflows/ci.yml)
